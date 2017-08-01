@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439833223 source:c:\users\priyansh soni\desktop\pec docs\semester 3\algorithm\algorithm search project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

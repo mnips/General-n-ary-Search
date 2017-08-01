@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1439877696 source:c:\users\priyansh soni\desktop\algo\final algo\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
